@@ -1,0 +1,134 @@
+<resources>
+
+    <style name="AppTheme.Text"/>
+
+    <style name="AppTheme.Text.HeadlineR">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="AppTheme.Text.HeadlineR.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.HeadlineR.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.HeadlineM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="AppTheme.Text.HeadlineM.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.HeadlineM.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleR">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleR.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleR.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleM.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.TitleM.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingR">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingR.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingR.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingM.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.SubheadingM.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyR">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyR.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyR.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyM.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.BodyM.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonR">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonR.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonR.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonM">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonM.Primary">
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+
+    <style name="AppTheme.Text.ButtonM.Primary.Dark">
+        <item name="android:textColor">@color/text_white</item>
+    </style>
+</resources>
