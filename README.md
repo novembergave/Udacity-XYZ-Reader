@@ -20,6 +20,7 @@ To improve an existing app to confirm to Material Design.
 <p align="center">
 <img src="screenshots/screenshoot_tablet00001.png" width="300">
 </p>    
+
 *DetailActivity Tablet*
 
 <p align="center">
