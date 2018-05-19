@@ -8,11 +8,11 @@
     </style>
 
     <style name="AppTheme.Text.HeadlineR.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.HeadlineR.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.HeadlineM">
@@ -21,11 +21,11 @@
     </style>
 
     <style name="AppTheme.Text.HeadlineM.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.HeadlineM.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.TitleR">
@@ -34,11 +34,11 @@
     </style>
 
     <style name="AppTheme.Text.TitleR.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.TitleR.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.TitleM">
@@ -47,11 +47,11 @@
     </style>
 
     <style name="AppTheme.Text.TitleM.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.TitleM.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.SubheadingR">
@@ -60,11 +60,11 @@
     </style>
 
     <style name="AppTheme.Text.SubheadingR.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.SubheadingR.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.SubheadingM">
@@ -73,11 +73,11 @@
     </style>
 
     <style name="AppTheme.Text.SubheadingM.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.SubheadingM.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.BodyR">
@@ -86,11 +86,11 @@
     </style>
 
     <style name="AppTheme.Text.BodyR.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.BodyR.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.BodyM">
@@ -99,11 +99,11 @@
     </style>
 
     <style name="AppTheme.Text.BodyM.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.BodyM.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.ButtonR">
@@ -112,11 +112,11 @@
     </style>
 
     <style name="AppTheme.Text.ButtonR.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.ButtonR.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 
     <style name="AppTheme.Text.ButtonM">
@@ -125,10 +125,10 @@
     </style>
 
     <style name="AppTheme.Text.ButtonM.Primary">
-        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textColor">@color/text_light</item>
     </style>
 
     <style name="AppTheme.Text.ButtonM.Primary.Dark">
-        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textColor">@color/text_dark</item>
     </style>
 </resources>

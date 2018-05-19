@@ -1,5 +1,6 @@
 package com.example.xyzreader.ui;
 
+import android.annotation.SuppressLint;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.LoaderManager;
@@ -51,7 +52,7 @@ public class ArticleDetailActivity extends AppCompatActivity
     getLoaderManager().initLoader(0, null, this);
 
     mPagerAdapter = new MyPagerAdapter(getFragmentManager());
-    mPager = (ViewPager) findViewById(R.id.pager);
+    mPager = findViewById(R.id.pager);
     mPager.setAdapter(mPagerAdapter);
     mPager.setPageMargin((int) TypedValue
         .applyDimension(TypedValue.COMPLEX_UNIT_DIP, 1, getResources().getDisplayMetrics()));
@@ -88,12 +89,11 @@ public class ArticleDetailActivity extends AppCompatActivity
 
     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
       mUpButtonContainer.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
+        @SuppressLint("NewApi")
         @Override
         public WindowInsets onApplyWindowInsets(View view, WindowInsets windowInsets) {
-          if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT_WATCH) {
-            view.onApplyWindowInsets(windowInsets);
-            mTopInset = windowInsets.getSystemWindowInsetTop();
-          }
+          view.onApplyWindowInsets(windowInsets);
+          mTopInset = windowInsets.getSystemWindowInsetTop();
           mUpButtonContainer.setTranslationY(mTopInset);
           updateUpButtonPosition();
           return windowInsets;

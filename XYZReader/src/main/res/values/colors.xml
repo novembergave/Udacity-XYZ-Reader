@@ -19,7 +19,7 @@
     <color name="photo_placeholder">@color/gray_light</color>
 
     <color name="colorPrimary">@color/green_primary</color>
-    <color name="colorPrimaryDark">@color/green_dark</color>
+    <color name="colorPrimaryDark">@color/black</color>
     <color name="colorAccent">@color/red_primary</color>
 
     <color name="green_primary">#00695c</color>
@@ -30,9 +30,11 @@
     <color name="red_light">#ff5f52</color>
     <color name="red_dark">#8e0000</color>
 
-    <color name="text_white">#ffffff</color>
-    <color name="text_black">#000000</color>
+    <color name="text_dark">@color/white</color>
+    <color name="text_light">@color/black</color>
 
     <color name="gray_light">#ffe0e0e0</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
     <color name="transparent">#00000000</color>
 </resources>
