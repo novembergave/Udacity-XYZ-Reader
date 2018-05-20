@@ -5,26 +5,25 @@ To improve an existing app to confirm to Material Design.
 
 *MainActivity Mobile*
 
-   ![alt text](screenshots/screenshoot_mobile00001.png "MainActivity")
-    
-   ![alt text](screenshots/screenshoot_mobile00002.png "MainActivity")
-
-   ![alt text](screenshots/screenshoot_mobile00003.png "MainActivity")
+<p align="center">
+<img src="screenshots/screenshoot_mobile00001.png" width="300"> <img src="screenshots/screenshoot_mobile00002.png" width="300"> <img src="screenshots/screenshoot_mobile00003.png" width="300">
+</p>
 
 *DetailActivity Mobile*
 
-   ![alt text](screenshots/screenshoot_mobile00004.png "DetailActivity")
-   
-   ![alt text](screenshots/screenshoot_mobile00005.png "DetailActivity")
+<p align="center">
+<img src="screenshots/screenshoot_mobile00004.png" width="300"> <img src="screenshots/screenshoot_mobile00005.png" width="300"> 
+</p>
 
 *MainActivity Tablet*
 
-   ![alt text](screenshots/screenshoot_tablet00001.png "MainActivity")
-    
+<p align="center">
+<img src="screenshots/screenshoot_tablet00001.png" width="300">
+</p>    
+
 *DetailActivity Tablet*
 
-   ![alt text](screenshots/screenshoot_tablet00002.png "DetailActivity")
-   
-   ![alt text](screenshots/screenshoot_tablet00003.png "DetailActivity")
-
+<p align="center">
+<img src="screenshots/screenshoot_tablet00002.png" width="500"> <img src="screenshots/screenshoot_tablet00003.png" width="500"> 
+</p>
 
